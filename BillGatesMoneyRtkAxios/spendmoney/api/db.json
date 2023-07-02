@@ -1,0 +1,72 @@
+{
+    "cardItems" :[
+        {
+            "id":1,
+            "image": "https://neal.fun/spend/images/drone.jpg",
+            "title":"Drone" ,
+            "price":4000 ,
+            "quantity":0
+         },
+         {
+             "id":2,
+             "image":"https://neal.fun/spend/images/yacht.jpg",
+             "title":"Yacht" ,
+             "price":100000000,
+             "quantity":0
+          } ,
+          {
+            "id":3,
+            "image":"https://neal.fun/spend/images/ferrari.jpg",
+            "title":"Ferrari",
+            "price": 60000000,
+            "quantity":0
+            },
+            {
+            "id":4,
+            "image":"https://neal.fun/spend/images/horse.jpg",
+            "title":"Horse" ,
+            "price":5000000,
+            "quantity":0
+            },
+            {
+            "id":5,
+            "image":"https://neal.fun/spend/images/mansion.jpg",
+            "title":"Mansion" ,
+            "price":150000000,
+            "quantity":0
+            },
+            {
+            "id":6,
+            "image":"https://neal.fun/spend/images/nba-team.jpg",
+            "title":"NBA Team" ,
+            "price":200000000,
+            "quantity":0
+            },
+            {
+            "id":7,
+            "image":"https://neal.fun/spend/images/puppy.jpg",
+            "title":"Puppy" ,
+            "price":30000,
+            "quantity":0
+            },
+            {
+            "id":8,
+            "image":"https://neal.fun/spend/images/rolex.jpg",
+            "title":"Rolex" ,
+            "price":40000,
+            "quantity":0
+            },
+            {
+            "id":9,
+            "image":"https://neal.fun/spend/images/jet-ski.jpg",
+            "title":"Jet Ski" ,
+            "price":70000,
+            "quantity":0
+            }
+    ]
+
+
+
+
+
+}
