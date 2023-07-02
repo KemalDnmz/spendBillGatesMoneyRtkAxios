@@ -1,10 +1,10 @@
 * This is a shopping project including spending Bill Gates Money.
-* I have used react,redux and redux toolkit in this project.
+* I have used react, redux toolkit and axios (for fetcing datas) in this project.
 * This is a clone project from neal.fun website
 
 In Turkish: 
 * Bu proje Bill Gates'in parasını harcamayı içeren bir alışveriş projesidir.
-* Bu projede react ,redux ve redux toolkiti kullandım.
+* Bu projede react ,redux toolkit ve axios'u (verileri çekmek için) kullandım.
 * Bu neal.fun websitesinden esinlenen bir klon projedir.
 
 # Getting Started with Create React App
